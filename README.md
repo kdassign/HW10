@@ -17,7 +17,8 @@ To run tests:
 - type npm test into terminal
 
 ## Usage
-https://watch.screencastify.com/v/YhsBy86pndJlSWmkru6G
+https://drive.google.com/file/d/1ExHXSlhvq_eeaaHC_ls5DWfR3cOYwGaU/view
 
 ## Links
-https://github.com/kdassign/HW9
+https://github.com/kdassign/HW10
+https://kdassign.github.io/HW10/
