@@ -8,7 +8,7 @@ const fs = require("fs");
 const OUTPUT_DIR = path.resolve(__dirname, "output");
 const outputPath = path.join(OUTPUT_DIR, "employees.html");
 
-const render = require("./lib/htmlRenderer");
+const render = require("./lib/htmlRenderer.js");
 
 // Prompts user to select which type of profile to add
 const roster = [];
